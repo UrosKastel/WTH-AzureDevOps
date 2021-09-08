@@ -7,8 +7,8 @@
 
 Historically version control has been the first component that teams have implemented, it is one of the oldest and most well understood components of DevOps. Please take a moment to review the basics of version control, specially focusing on the distributed version control technology, Git.
 
-1. [What is version control?](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-version-control)
-2. [What is Git?](https://docs.microsoft.com/en-us/azure/devops/learn/git/what-is-git)
+1. [What is version control?](https://docs.microsoft.com/en-us/devops/develop/git/what-is-version-control)
+2. [What is Git?](https://docs.microsoft.com/en-us/devops/develop/git/what-is-git)
 
 ### Challenge
 
